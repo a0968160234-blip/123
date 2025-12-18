@@ -1,0 +1,5 @@
+{
+  "name": "ZenFinance AI - 個人化財務管家",
+  "description": "結合 Firebase 雲端存儲與 Gemini AI 智慧分析的個人財務管理系統，支援多帳戶管理、收支追蹤與深度理財建議。",
+  "requestFramePermissions": []
+}
